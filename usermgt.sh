@@ -9,3 +9,4 @@ jamboteur
 sam
  Ghost
 tommy is a real nigga
+Tariq is king
