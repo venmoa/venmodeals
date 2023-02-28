@@ -1,6 +1,4 @@
-hans
-hope 
-john
+mercy
 peter
 tina 
 polo
