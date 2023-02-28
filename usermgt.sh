@@ -7,4 +7,5 @@ manager
 ferstus
 jamboteur
 sam
- Ghost 
+ Ghost
+tommy is a real nigga
